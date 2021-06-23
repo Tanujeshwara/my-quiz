@@ -1,1 +1,1 @@
-# my-quiz
+# my-quiz-template
